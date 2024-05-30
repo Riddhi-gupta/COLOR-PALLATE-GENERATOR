@@ -1,0 +1,5 @@
+to download Flask and Pillow 
+command:
+
+######
+pip install flask pillow

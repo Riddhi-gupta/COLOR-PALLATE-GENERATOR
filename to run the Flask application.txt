@@ -1,0 +1,6 @@
+to run the Flask application
+
+command:
+
+###########
+python app.py
